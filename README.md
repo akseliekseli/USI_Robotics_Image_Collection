@@ -2,6 +2,8 @@
 
 This is a repository for USI Robotics course project in 2023. The project utilizes the MightyThymio to collect images around the target Robomaster S1. This image collection can be then used as a trianing dataset for pose detection using only Thymio's camera. 
 
+The dataset and video can be found here: https://drive.google.com/drive/folders/1lOD1asD_Hyw3f6hr_bszWOX9BST587r_?usp=drive_link
+
 ### Running Steps
 
 0. Run
